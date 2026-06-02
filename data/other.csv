@@ -103,7 +103,6 @@ name,source,gender,wikidata,type
 "Avenue Bascher",,,,relation
 "Avenue Beauger",,,,relation
 "Avenue Béranger",,,,relation
-"Avenue Bodinier",,,,relation
 "Avenue Bon Accueil",,,,relation+way
 "Avenue Bonnet",,,,relation
 "Avenue Caillé",,,,relation
@@ -139,6 +138,7 @@ name,source,gender,wikidata,type
 "Avenue Jean-Baptiste Perrin",,,,relation
 "Avenue Jean-Claude Bonduelle",,,,relation
 "Avenue Joseph Barreau",,,,relation
+"Avenue Joseph Bodinier",,,,relation
 "Avenue Joseph Ravanel",,,,relation
 "Avenue Joséphine Pencalet",,,,relation
 "Avenue Jules Bécigneul",,,,relation
@@ -208,7 +208,7 @@ name,source,gender,wikidata,type
 "Avenue de Corfou",,,,relation
 "Avenue de Doëlan",,,,relation
 "Avenue de Frémeur",,,,relation
-"Avenue de Kerdonis",,,,relation
+"Avenue de Kerdonis",,,,relation+way
 "Avenue de Kurun",,,,relation
 "Avenue de Lusançay",,,,relation
 "Avenue de Montys",,,,relation
@@ -785,7 +785,7 @@ L’Océane,,,,way
 "Périphérique Intérieur - L’Océane",,,,way
 "Périphérique Intérieur - Pont de Cheviré",,,,way
 "Petit Chemin de la Gaudinière",,,,relation
-"Petit Chemin des Chaupières",,,,relation
+"Petit Chemin des Chaupières",,,,relation+way
 "Petit Passage Saint-Yves",,,,relation
 "Petite Avenue Chanteclerc",,,,relation
 "Petite Avenue Saint-Clair",,,,relation
@@ -883,7 +883,6 @@ L’Océane,,,,way
 "Promenade Van Iseghem",,,,way
 "Promenade des Nefs",,,,way
 "Promenade du Couchant",,,,way
-"Quai Halleray",,,,way
 "Quai Marquis d'Aiguillon",,,,relation
 "Quai Président Wilson",,,,relation
 "Quai de Roche Maurice",,,,relation
@@ -1343,6 +1342,7 @@ L’Océane,,,,way
 "Rue de la Jalotterie",,,,relation
 "Rue de la Janvraie",,,,way
 "Rue de la Juiverie",,,,relation
+"Rue de la Laïcité",,,,relation
 "Rue de la Libération",,,,relation
 "Rue de la Lombarderie",,,,relation
 "Rue de la Lune d'Eau",,,,relation
@@ -1710,4 +1710,3 @@ L’Océane,,,,way
 "Venelle des Gohards",,,,relation
 "Venelle des Hirondelles",,,,relation
 "Villa Cassard",,,,way
-"petit chemin des Chaupières",,,,way
