@@ -15,6 +15,7 @@ name,source,gender,wikidata,type
 "Allée Helen Suzman",,,,way
 "Allée Isabelle Eberhardt",,,,way
 "Allée Isadora Duncan",,,,way
+"Allée Jacqueline Audry",,,,way
 "Allée Jacqueline Félicie De Almania",,,,relation
 "Allée Jacqueline Maillan",,,,relation
 "Allée Jacqueline de Romilly",,,,relation
@@ -36,6 +37,7 @@ name,source,gender,wikidata,type
 "Allée Marie-Andrée Lagroua Weill-Hallé",,,,relation
 "Allée Marie-Louise Chevrel-Bodin",,,,relation
 "Allée Marthe Condat",,,,relation
+"Allée Marthe Gauthier",,,,relation
 "Allée Maudy Piot",,,,way
 "Allée Michel Chaillou",,,,relation
 "Allée Michel Friot",,,,way
@@ -406,6 +408,7 @@ Beaujoire,,,,way
 "Boulevard Meusnier de Querlon",,,,relation
 "Boulevard Paul Chabas",,,,relation
 "Boulevard Professeur René Auvigné",,,,relation
+"Boulevard Robert Badinter",,,,way
 "Boulevard Robert Schuman",,,,relation
 "Boulevard Saint-Aignan",,,,relation
 "Boulevard Salvador Allende",,,,relation
@@ -999,6 +1002,7 @@ L’Océane,,,,way
 "Rue François Farineau",,,,relation+way
 "Rue François Salières",,,,relation
 "Rue François Sire",,,,way
+"Rue Françoise Dolto",,,,way
 "Rue Frédureau",,,,relation
 "Rue Frère Allaire",,,,way
 "Rue Gabrielle Le Pan de Ligny",,,,relation
@@ -1070,6 +1074,8 @@ L’Océane,,,,way
 "Rue Lucien Aubert",,,,relation
 "Rue Ludovic Lefièvre",,,,relation
 "Rue Madame Louise Gravaud",,,,relation
+"Rue Madeleine Pelletier",,,,way
+"Rue Madeleine Riffaud",,,,way
 "Rue Magdeleine",,,,relation
 "Rue Maisdon Pajot",,,,relation
 "Rue Malherbe",,,,relation
@@ -1488,7 +1494,7 @@ L’Océane,,,,way
 "Rue des Hêtres",,,,relation
 "Rue des Hibiscus",,,,relation
 "Rue des Landes",,,,relation
-"Rue des Maraîchers",,,,relation+way
+"Rue des Maraîchers",,,,relation
 "Rue des Marchandises",,,,relation
 "Rue des Marins",,,,relation
 "Rue des Marsauderies",,,,relation
