@@ -423,7 +423,7 @@ Beaujoire,,,,way
 "Boulevard de la Loire",,,,relation
 "Boulevard de la Louetrie",,,,relation
 "Boulevard de la Pilotière",,,,relation
-"Boulevard de la Prairie au Duc",,,,relation+way
+"Boulevard de la Prairie au Duc",,,,relation
 "Boulevard de la Solidarité",,,,relation
 "Boulevard des Américains",,,,relation
 "Boulevard des Batignolles",,,,relation
@@ -740,6 +740,7 @@ L’Océane,,,,way
 "Le labyrinthe des camélias",,,,way
 "Les Bords de l'Erdre",,,,way
 "Levée de Sèvre",,,,relation
+"Machines de l'île",,,,way
 "Mail Marthe Delpirou",,,,relation
 "Mail Pablo Picasso",,,,relation
 "Mail de Rufisque",,,,relation
@@ -890,6 +891,7 @@ L’Océane,,,,way
 "Quai Président Wilson",,,,relation
 "Quai de Roche Maurice",,,,relation
 "Quai de Versailles",,,,relation
+"Quai de la Fosse",,,,relation+way
 "Quai de la Jonelière",,,,relation
 "Quai du Cordon Bleu",,,,relation
 "Quai du Halleray",,,,relation
@@ -1029,6 +1031,7 @@ L’Océane,,,,way
 "Rue Henri Eugène Gouillard",,,,relation
 "Rue Henri Jullin",,,,relation
 "Rue Henri Loiret",,,,relation
+"Rue Henry IV",,,,way
 "Rue Huchette",,,,relation+way
 "Rue Jacquelin",,,,relation
 "Rue Jacques Chambon",,,,relation

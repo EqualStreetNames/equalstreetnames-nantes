@@ -48,7 +48,7 @@ name,source,gender,wikidata,type
 "Allée du Crépuscule",wikidata,-,Q164160,relation
 "Allée du Héron",wikidata,-,Q3259077,way
 "Avenue Camus",wikidata,-,Q34670;Q1549283,relation
-"Avenue Saint-Félix",wikidata,-,Q3581497,relation
+"Avenue Saint-Félix",wikidata,-,Q3581497,relation+way
 "Avenue Saint-Goazec",wikidata,-,Q622461,relation
 "Avenue Saint-Pol de Léon",wikidata,-,Q239908,relation
 "Avenue d'Auray",wikidata,-,Q62958,relation
@@ -402,7 +402,7 @@ Médiathèque,wikidata,-,Q16509013,relation
 "Rue de Recife",wikidata,-,Q48344,way
 "Rue de Roubaix",wikidata,-,Q34001,relation
 "Rue de Saint-Brévin",wikidata,-,Q752437,relation
-"Rue de Saint-Domingue",wikidata,-,Q34820,relation
+"Rue de Saint-Domingue",wikidata,-,Q34820,relation+way
 "Rue de Saintonge",wikidata,-,Q1509703,relation
 "Rue de Saverne",wikidata,-,Q22741,relation
 "Rue de Strasbourg",wikidata,-,Q6602,relation+way
@@ -642,7 +642,6 @@ Médiathèque,wikidata,-,Q16509013,relation
 "Place Sophie Trébuchet",wikidata,F,Q3491058,relation
 "Place de la Duchesse Anne",wikidata,F,Q201143,relation+way
 "Pont Anne de Bretagne",wikidata,F,Q201143,way
-"Quai de la Fosse",wikidata,F,Q201143,relation+way
 "Rue Andrée Chédid",wikidata,F,Q465721,relation
 "Rue Anita Conti",wikidata,F,Q2850173,relation
 "Rue Anna Marly",wikidata,F,Q464853,way
@@ -1608,7 +1607,7 @@ Médiathèque,wikidata,-,Q16509013,relation
 "Rue des Frères Amieux",wikidata,M,Q60557324;Q101085503,relation
 "Rue des Frères Mano",wikidata,M,Q130349431,relation
 "Rue des Sept Maires Charette",wikidata,M,Q17638067;Q17634361;Q15967072;Q3425991;Q17630933;Q17630643;Q17634358,relation
-"Rue du Bâtonnier Yves Guinaudeau",wikidata,M,Q66615343,relation+way
+"Rue du Bâtonnier Yves Guinaudeau",wikidata,M,Q66615343,relation
 "Rue du Breil",wikidata,M,Q17355347,relation
 "Rue du Chanoine Courtonne",wikidata,M,Q97357775,way
 "Rue du Couëdic",wikidata,M,Q2959693,relation
