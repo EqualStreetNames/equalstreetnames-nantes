@@ -248,7 +248,7 @@ Médiathèque,wikidata,-,Q16509013,relation
 "Place de la Bourse",wikidata,-,Q767657,relation+way
 "Place de la Croix Bonneau",wikidata,-,Q125542228,relation
 "Place de la Gare de l'État",wikidata,-,Q957240,relation
-"Place de la Liberté",wikidata,-,Q2979,relation+way
+"Place de la Liberté",wikidata,-,Q2979,relation
 "Place de la République",wikidata,-,Q7270,relation
 "Place des Enfants Nantais",wikidata,-,Q3036218;Q2886987,relation
 "Place des Érables",wikidata,-,Q42292,way
@@ -366,6 +366,7 @@ Médiathèque,wikidata,-,Q16509013,relation
 "Rue de Cochabamba",wikidata,-,Q183124,way
 "Rue de Colmar",wikidata,-,Q130994;Q46083,relation
 "Rue de Constantine",wikidata,-,Q187346;Q636772,relation
+"Rue de Copenhague",wikidata,-,Q1748,way
 "Rue de Coulmiers",wikidata,-,Q570919,relation
 "Rue de Crozon",wikidata,-,Q218058,relation
 "Rue de Finlande",wikidata,-,Q33,way
@@ -906,7 +907,6 @@ Médiathèque,wikidata,-,Q16509013,relation
 "Impasse Marmontel",wikidata,M,Q379923,relation
 "Impasse Paul-Émile Victor",wikidata,M,Q1307585,relation
 "Impasse René Char",wikidata,M,Q315015,relation
-"Impasse Sully",wikidata,M,Q379953,way
 "Impasse Vignolle",wikidata,M,Q297565,relation
 "Impasse Xavier Grall",wikidata,M,Q964869,relation
 "Mail Haroun Tazieff",wikidata,M,Q363379,relation+way
