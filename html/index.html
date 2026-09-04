@@ -30,11 +30,11 @@
         (function () {
             var language = navigator.language || navigator.browserLanguage;
 
-            if (["en", "fr"].includes(language.slice(0, 2))) {
-                document.location.href = `./${language.slice(0, 2)}/index.html`;
+            switch (language.slice(0, 2)) {
+                case "en": document.location.href = "./en/index.html"; break;
+                case "fr": document.location.href = "./fr/index.html"; break;
             }
-        }
-      }) ();
+        })();
     </script>
 </body>
 
