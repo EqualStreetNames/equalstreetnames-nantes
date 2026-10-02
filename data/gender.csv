@@ -915,6 +915,7 @@ Médiathèque,wikidata,-,Q16509013,relation
 "Passage Graslin",wikidata,M,Q3166480,way
 "Passage Jean-Pierre Kernéis",wikidata,M,Q28843711,way
 "Passage Louis Lévesque",wikidata,M,Q3260597,relation
+"Passage Pommeraye",wikidata,M,Q59360892,relation
 "Passage Schœlcher",wikidata,M,Q120417,way
 "Passerelle Victor Schœlcher",wikidata,M,Q120417,way
 "Périphérique Extérieur",wikidata,M,Q231402;Q37064,way
@@ -1597,7 +1598,7 @@ Médiathèque,wikidata,-,Q16509013,relation
 "Rue de Feltre",wikidata,M,Q3047434,relation+way
 "Rue de Hercé",wikidata,M,Q3165956,relation
 "Rue de Jussieu",wikidata,M,Q432734,relation
-"Rue de Lourmel",wikidata,M,Q3089878,relation
+"Rue de Lourmel",wikidata,M,Q3089878,relation+way
 "Rue de Loynes",wikidata,M,Q2871666,relation
 "Rue de l'Évêque Émilien",wikidata,M,Q3588894,relation
 "Rue de la Barbinais",wikidata,M,Q48975555,relation

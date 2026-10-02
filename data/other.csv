@@ -545,6 +545,7 @@ Beaujoire,,,,way
 "Chemin du Pressoir Chênaie",,,,relation
 "Chemin du Sas au Vin",,,,relation
 "Chemin du halage",,,,way
+"Chemin du hasard",,,,way
 "Cour Sans Nom",,,,relation
 "Cour aux Chais",,,,relation
 "Cour d'Honneur",,,,way
@@ -751,6 +752,7 @@ L’Océane,,,,way
 "Nouvelle Impasse des Salorges",,,,relation
 "Parcours Commémoratif",,,,way
 "Parcours Méditatif",,,,way
+"Parvis François Joulain",,,,way
 "Parvis des Nefs",,,,way
 "Passage André Crétaux",,,,relation
 "Passage Baco",,,,way
@@ -765,7 +767,6 @@ L’Océane,,,,way
 "Passage Lecuyer",,,,relation
 "Passage Lucien Guitteny",,,,way
 "Passage Nina Verde",,,,relation
-"Passage Pommeraye",,,,relation
 "Passage Proutier",,,,relation
 "Passage Robin",,,,relation
 "Passage Saint-Aignan",,,,relation
@@ -1275,6 +1276,7 @@ L’Océane,,,,way
 "Rue de l'Île Botty",,,,way
 "Rue de l'Île Pointière",,,,relation
 "Rue de l'Île aux Moutons",,,,relation
+"Rue de l'Îlot des Greves",,,,way
 "Rue de l'Industrie",,,,relation
 "Rue de l'Olivraie",,,,relation
 "Rue de l'Ouche Bignon",,,,relation
@@ -1451,6 +1453,7 @@ L’Océane,,,,way
 "Rue des Chapeliers",,,,relation
 "Rue des Chardonnerets",,,,relation
 "Rue des Charmilles",,,,relation
+"Rue des Charpentiers",,,,way
 "Rue des Châtaigniers",,,,relation+way
 "Rue des Chaupières",,,,relation
 "Rue des Citrines",,,,relation
@@ -1611,6 +1614,7 @@ L’Océane,,,,way
 "Rue du Général de Bollardière",,,,relation
 "Rue du Gois",,,,relation
 "Rue du Grand Clos",,,,relation
+"Rue du Grand Pâtis",,,,way
 "Rue du Grand Verger",,,,relation
 "Rue du Gros Chêne",,,,relation
 "Rue du Gué Robert",,,,relation
@@ -1629,7 +1633,7 @@ L’Océane,,,,way
 "Rue du Moulin",,,,relation
 "Rue du Moulin Neuf",,,,relation
 "Rue du Moulin de l'Abbaye",,,,relation
-"Rue du Moulin de la Garde",,,,relation
+"Rue du Moulin de la Garde",,,,relation+way
 "Rue du Moulin de la Halvêque",,,,relation
 "Rue du Moulin des Carmes",,,,relation
 "Rue du Moulin des Grolles",,,,relation
