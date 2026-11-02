@@ -186,7 +186,7 @@ name,source,gender,wikidata,type
 "Boulevard de la Fraternité",wikidata,-,Q251583;Q5868822,relation+way
 "Boulevard de la Liberté",wikidata,-,Q251583;Q2979,relation+way
 "Boulevard de la Prairie de Mauves",wikidata,-,Q125828842,relation+way
-"Boulevard des Anglais",wikidata,-,Q42406,relation
+"Boulevard des Anglais",wikidata,-,Q42406,relation+way
 "Boulevard des Antilles",wikidata,-,Q166131,way
 "Boulevard des Belges",wikidata,-,Q1377716,relation
 "Boulevard des Frères de Goncourt",wikidata,-,Q622283,relation
@@ -606,6 +606,7 @@ Médiathèque,wikidata,-,Q16509013,relation
 "Allée Louise Bourgeois",wikidata,F,Q159409,way
 "Allée Madeleine Barot",wikidata,F,Q510687,way
 "Allée Madeleine Brès",wikidata,F,Q3275603,way
+"Allée Maria Sybella Merian",wikidata,F,Q62530,way
 "Allée Marie Heurtin",wikidata,F,Q3292571,way
 "Allée Marie Pape-Carpantier",wikidata,F,Q3292726,way
 "Allée Marie-Louise Dubreil-Jacotin",wikidata,F,Q3292060,way
@@ -1168,7 +1169,7 @@ Médiathèque,wikidata,-,Q16509013,relation
 "Rue Émile Cheysson",wikidata,M,Q3588411,relation
 "Rue Émile Cossé",wikidata,M,Q16685211,relation
 "Rue Émile Dezaunay",wikidata,M,Q3588459,relation
-"Rue Émile Duployé",wikidata,M,Q113075,relation
+"Rue Émile Duployé",wikidata,M,Q113075,relation+way
 "Rue Émile Gadeceau",wikidata,M,Q21516550,relation
 "Rue Émile Loubet",wikidata,M,Q169502,relation
 "Rue Émile Masson",wikidata,M,Q3079979,relation
@@ -1485,7 +1486,7 @@ Médiathèque,wikidata,-,Q16509013,relation
 "Rue Paul Bert",wikidata,M,Q735370,relation
 "Rue Paul Claudel",wikidata,M,Q295830,relation+way
 "Rue Paul Decauville",wikidata,M,Q7831026,relation
-"Rue Paul Delaroche",wikidata,M,Q322582,relation
+"Rue Paul Delaroche",wikidata,M,Q322582,relation+way
 "Rue Paul Deltombe",wikidata,M,Q3371030,relation
 "Rue Paul Éluard",wikidata,M,Q152176,relation
 "Rue Paul Gauguin",wikidata,M,Q37693,relation

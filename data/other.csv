@@ -30,7 +30,6 @@ name,source,gender,wikidata,type
 "Allée Lucy Stone",,,,relation
 "Allée Marcelle Henry",,,,way
 "Allée Marguerite et André Lermite",,,,way
-"Allée Maria Sybella Merjan",,,,way
 "Allée Maria Vérone",,,,relation+way
 "Allée Marie Hackin",,,,way
 "Allée Marie Paradis",,,,relation+way
@@ -1501,7 +1500,7 @@ L’Océane,,,,way
 "Rue des Hibiscus",,,,relation
 "Rue des Landes",,,,relation
 "Rue des Maraîchers",,,,relation
-"Rue des Marchandises",,,,relation
+"Rue des Marchandises",,,,relation+way
 "Rue des Marins",,,,relation
 "Rue des Marsauderies",,,,relation
 "Rue des Martyrs",,,,relation+way
